@@ -1,0 +1,19 @@
+my:
+  custom:
+    property: false
+server:
+  port: 8080
+spring:
+  main:
+    banner-mode: off
+
+---
+spring:
+  config:
+    activate:
+      on-profile: jaz
+my:
+  custom:
+    property: true
+
+
