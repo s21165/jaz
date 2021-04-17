@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>pl.pjatk</groupId>
-	<artifactId>OktWic</artifactId>
+	<artifactId>WitJag</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>OktWic</name>
+	<name>WitJag</name>
 	<description>Spring Core Example Project</description>
 	<properties>
 		<java.version>11</java.version>
