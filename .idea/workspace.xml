@@ -1,30 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6bcfd4bd-c48c-4f2e-8567-f68ef134dc45" name="Default Changelist" comment="poprawki z lekcji">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_11_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_44.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_glassfish_jakarta_el_3_0_3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_4_4.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_5_3_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/pjatk/WitJag/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/pjatk/WitJag/JazRestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6bcfd4bd-c48c-4f2e-8567-f68ef134dc45" name="Default Changelist" comment="homework">
+      <change afterPath="$PROJECT_DIR$/src/main/java/pl/pjatk/WitJag/Homework3RestCrontroller.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WitJag.iml" beforeDir="false" afterPath="$PROJECT_DIR$/WitJag.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/pjatk/WitJag/AppConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/pjatk/WitJag/AppConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pjatk/WitJag/AppConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/pjatk/WitJag/AppConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/pjatk/WitJag/ThisIsTrue.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,8 +100,16 @@
       <workItem from="1618660747148" duration="7000000" />
       <workItem from="1618728391599" duration="2686000" />
       <workItem from="1620385996043" duration="578000" />
-      <workItem from="1620402178340" duration="1659000" />
+      <workItem from="1620402178340" duration="1914000" />
     </task>
+    <task id="LOCAL-00001" summary="poprawki z lekcji">
+      <created>1620404052676</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620404052676</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,14 +133,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="811" y="294" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1618657408414" />
-    <state x="520" y="88" key="CommitChangelistDialog2" timestamp="1620403995814">
+    <state x="520" y="88" key="CommitChangelistDialog2" timestamp="1620404114841">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="520" y="88" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1620403995814" />
-    <state x="248" y="121" key="DiffContextDialog" timestamp="1618728491029">
+    <state x="520" y="88" key="CommitChangelistDialog2/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1620404114841" />
+    <state x="248" y="121" key="DiffContextDialog" timestamp="1620404111113">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="248" y="121" key="DiffContextDialog/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1618728491029" />
+    <state x="248" y="121" key="DiffContextDialog/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1620404111113" />
     <state x="590" y="112" key="FileChooserDialogImpl" timestamp="1618656818033">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -208,10 +195,10 @@
     </state>
     <state x="593" y="335" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1620402177999" />
     <state x="3005" y="277" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/2560.0.1920.1158@2560.0.1920.1158" timestamp="1618653411196" />
-    <state x="969" y="555" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620403963530">
+    <state x="969" y="555" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620404129400">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="969" y="555" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1620403963530" />
+    <state x="969" y="555" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400/2560.0.1920.1158@0.0.2560.1400" timestamp="1620404129400" />
     <state x="92" y="92" width="2376" height="1216" key="dock-window-1" timestamp="1618663545047">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
