@@ -22,9 +22,5 @@ public class AppConfig {
     }
 
 
-    @Bean
-    @ConditionalOnProperty(value = "someValue", havingValue = "true")
-    public ThisIsTrue thisIsTrueString() {
-        return new ThisIsTrue("Indeed");
-    }
+
 }
